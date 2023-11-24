@@ -1,0 +1,3 @@
+word = "level"
+
+stack = []
